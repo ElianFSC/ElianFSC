@@ -1,9 +1,18 @@
 ﻿// Exercício 02
-Console.WriteLine("Qual sua primeira nota?");
-int nota1 = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Qual sua segunda nota?");
-int nota2 = Convert.ToInt32(Console.ReadLine());
+// Variavel para obter um número
+int num = -1;
 
-Console.WriteLine("Sua média é:");
-Console.WriteLine((nota1 + nota2) / 2);
+// Variavel para somar os valores informados
+int soma = 0;
+
+// Laço
+while (num != 0)
+{
+    Console.WriteLine("Informe o número que deseja");
+    num = Convert.ToInt32(Console.ReadLine());
+    soma += num;
+}
+
+// Exibindo a soma
+Console.WriteLine("A soma dos valores informados é " + soma + ".");
