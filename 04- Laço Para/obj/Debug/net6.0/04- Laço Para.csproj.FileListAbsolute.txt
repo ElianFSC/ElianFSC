@@ -1,0 +1,15 @@
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\bin\Debug\net6.0\04- Laço Para.exe
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\bin\Debug\net6.0\04- Laço Para.deps.json
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\bin\Debug\net6.0\04- Laço Para.runtimeconfig.json
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\bin\Debug\net6.0\04- Laço Para.dll
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\bin\Debug\net6.0\04- Laço Para.pdb
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\obj\Debug\net6.0\04- Laço Para.csproj.AssemblyReference.cache
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\obj\Debug\net6.0\04- Laço Para.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\obj\Debug\net6.0\04- Laço Para.AssemblyInfoInputs.cache
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\obj\Debug\net6.0\04- Laço Para.AssemblyInfo.cs
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\obj\Debug\net6.0\04- Laço Para.csproj.CoreCompileInputs.cache
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\obj\Debug\net6.0\04- Laço Para.dll
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\obj\Debug\net6.0\refint\04- Laço Para.dll
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\obj\Debug\net6.0\04- Laço Para.pdb
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\obj\Debug\net6.0\04- Laço Para.genruntimeconfig.cache
+C:\Users\quick\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04- Laço Para\obj\Debug\net6.0\ref\04- Laço Para.dll
